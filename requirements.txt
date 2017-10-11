@@ -1,1 +1,6 @@
-
+apistar==0.3.9
+gunicorn==19.7.1
+meinheld==0.6.1
+psycopg2==2.7.3.1
+pyiso==0.3.19
+SQLAlchemy==1.1.14
